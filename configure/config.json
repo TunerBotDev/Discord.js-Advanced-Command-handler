@@ -1,5 +1,5 @@
 {
-    "token": "OTQwNTY0NjA4NzczNjgxMjMz.YgJPDQ.iGsz7ytctTl5nDA_Ox_FtWNzIJg",
+    "token": "",
     "prefix": "!",
     "setGlob": false, "COMMENT": "SET IT TO TRUE WHEN ALL SLASH COMMANDS ARE COMPLETE! FALSE LOADS FASTER BUT WHEN SET TRUE WILL BE MORE STABLE",
 "slashCommandsDirs": [
