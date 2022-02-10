@@ -3,7 +3,7 @@
 ## This command handler is very advanced with discord.jsv13 slash commands support!
 
 
-Replit Version! [FORK!]()
+Replit Version! [FORK!](https://replit.com/@Tuner-discordDEV/Discordjs-Advanced-Command-handler#readme.md)
 
 # INSTALLATION GUIDE
 
